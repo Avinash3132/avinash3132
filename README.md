@@ -8,6 +8,10 @@ Email Me 👉 ✉️ **avinashpatel7050@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** avinashpatel7050@gmail.com
 - 😄 **Pronouns:** Avinash
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=avinash3132&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinashp3132) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-patel-45604933) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashpatel7050@gmail.com) 
 
@@ -21,9 +25,6 @@ Email Me 👉 ✉️ **avinashpatel7050@gmail.com** For Collaboration/Project or
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avinash3132&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
